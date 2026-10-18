@@ -1,0 +1,11 @@
+.env
+.env.*
+*.key
+*.pem
+*.csv
+*.json
+secrets*
+credentials*
+__pycache__/
+*.pyc
+*.log
